@@ -6,11 +6,11 @@
 clear
 clear global
 
-% UPDATE YOUR PATHS
-cd('C:\Users\Cathy\Documents\MATLAB'); %cd to wherever you saved the scripts 
-dataDirectory = 'C:\Users\Cathy\Documents\MATLAB';  
-outputDirectory = 'C:\Users\Cathy\Documents\MATLAB';
-modelDir = cd(dataDirectory);
+%UPDATE YOUR PATHS
+% cd('~/Desktop'); %cd to wherever you saved the scripts 
+% dataDirectory = '~/Desktop';  
+% outputDirectory = '~/Desktop';
+% modelDir = cd(dataDirectory);
 
 dataDirectory = pwd;
 outputDirectory = pwd;
